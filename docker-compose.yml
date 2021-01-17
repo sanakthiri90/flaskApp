@@ -1,0 +1,20 @@
+version: "3.4"
+services:
+  ia:
+    build:
+      context: ./image2
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    volumes:
+      - ./logs:/app/logs
+  web:
+    build:
+      context: ./image1
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    volumes:
+      - ./logs:/app/logs
+    depends_on:
+       - ia

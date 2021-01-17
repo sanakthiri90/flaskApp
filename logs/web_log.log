@@ -1,0 +1,336 @@
+00:39:43,836 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,838 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,838 root INFO "Don't forget to smile sana !"
+
+00:39:43,839 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,840 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,841 root INFO "Don't forget to smile sana !"
+
+00:39:43,841 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,842 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,843 root INFO "Don't forget to smile sana !"
+
+00:39:43,843 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,845 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,845 root INFO "Don't forget to smile sana !"
+
+00:39:43,846 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,848 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,848 root INFO "Don't forget to smile sana !"
+
+00:39:43,849 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,851 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,851 root INFO "Don't forget to smile sana !"
+
+00:39:43,852 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,854 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,855 root INFO "Don't forget to smile sana !"
+
+00:39:43,855 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,857 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,858 root INFO "Don't forget to smile sana !"
+
+00:39:43,858 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,860 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,860 root INFO "Don't forget to smile sana !"
+
+00:39:43,862 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:43,864 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:43,864 root INFO "Don't forget to smile sana !"
+
+00:39:43,871 werkzeug INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+00:39:43,871 werkzeug INFO  * Restarting with stat
+00:39:44,7 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,9 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,9 root INFO "Don't forget to smile sana !"
+
+00:39:44,10 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,11 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,11 root INFO "Don't forget to smile sana !"
+
+00:39:44,12 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,13 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,14 root INFO "Don't forget to smile sana !"
+
+00:39:44,14 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,15 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,16 root INFO "Don't forget to smile sana !"
+
+00:39:44,17 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,18 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,19 root INFO "Don't forget to smile sana !"
+
+00:39:44,20 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,21 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,21 root INFO "Don't forget to smile sana !"
+
+00:39:44,22 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,23 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,24 root INFO "Don't forget to smile sana !"
+
+00:39:44,24 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,26 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,26 root INFO "Don't forget to smile sana !"
+
+00:39:44,27 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,28 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,29 root INFO "Don't forget to smile sana !"
+
+00:39:44,29 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:39:44,31 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 31
+00:39:44,32 root INFO "Don't forget to smile sana !"
+
+00:39:44,35 werkzeug WARNING  * Debugger is active!
+00:39:44,36 werkzeug INFO  * Debugger PIN: 207-515-675
+00:41:37,86 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,88 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,88 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,89 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,90 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,91 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,91 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,93 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,93 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,94 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,95 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,96 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,96 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,98 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,99 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,99 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,101 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,102 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,102 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,104 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,104 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,105 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,107 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,107 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,108 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,109 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,110 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,111 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,113 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,113 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,120 werkzeug INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+00:41:37,121 werkzeug INFO  * Restarting with stat
+00:41:37,254 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,256 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,256 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,257 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,258 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,259 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,259 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,260 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,261 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,261 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,263 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,263 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,264 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,265 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,266 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,266 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,268 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,269 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,269 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,271 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,271 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,272 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,273 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,274 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,274 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,276 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,277 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,278 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:41:37,279 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 42
+00:41:37,280 root INFO "Be happy & don't forget to smile Sana !"
+
+00:41:37,285 werkzeug WARNING  * Debugger is active!
+00:41:37,286 werkzeug INFO  * Debugger PIN: 226-627-275
+00:42:31,856 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,858 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,859 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,859 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,861 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,861 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,862 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,863 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,863 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,864 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,865 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,866 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,866 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,868 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,868 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,869 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,870 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,871 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,872 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,873 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,874 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,874 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,876 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,876 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,877 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,880 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,881 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,882 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:31,885 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:31,885 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:31,892 werkzeug INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+00:42:31,892 werkzeug INFO  * Restarting with stat
+00:42:32,29 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,30 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,31 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,31 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,33 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,33 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,34 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,35 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,35 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,36 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,37 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,38 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,38 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,40 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,40 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,41 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,43 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,43 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,44 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,46 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,47 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,48 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,49 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,50 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,50 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,52 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,52 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,53 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:42:32,55 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 47
+00:42:32,55 root INFO "Be happy & don't forget to smile Sana ^_^ !!"
+
+00:42:32,61 werkzeug WARNING  * Debugger is active!
+00:42:32,62 werkzeug INFO  * Debugger PIN: 100-416-494
+00:43:17,758 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,760 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,761 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,762 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,763 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,763 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,764 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,765 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,766 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,767 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,768 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,768 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,769 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,771 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,771 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,772 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,773 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,773 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,774 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,776 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,777 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,777 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,779 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,779 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,780 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,782 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,782 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,783 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,784 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,784 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,791 werkzeug INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+00:43:17,791 werkzeug INFO  * Restarting with stat
+00:43:17,926 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,928 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,928 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,929 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,931 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,931 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,932 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,933 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,934 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,934 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,936 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,936 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,937 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,938 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,939 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,939 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,941 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,941 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,942 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,944 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,944 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,945 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,946 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,947 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,947 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,949 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,949 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,950 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 0.0.0.0:5052
+00:43:17,951 urllib3.connectionpool DEBUG http://0.0.0.0:5052 "POST /api/ HTTP/1.1" 200 58
+00:43:17,952 root INFO "\n ***** Be happy & don't forget to smile Sana ^_^ !!\n"
+
+00:43:17,956 werkzeug WARNING  * Debugger is active!
+00:43:17,957 werkzeug INFO  * Debugger PIN: 197-180-864
